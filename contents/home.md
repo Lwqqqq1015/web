@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a PhD student at Chongqing University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: liwenqi[at]stu.cqu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc, Environmental Management and Engineering, The Hong Kong Polytechnic University, 2019—2020.\
+B.E., Safty Engineering, Zhongnan University of Economics and Law, 2015—2019.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning; Environmental Management; Energy Economics
 
